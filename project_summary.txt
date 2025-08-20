@@ -1,0 +1,2 @@
+Daftar Commit ; d420121 (HEAD -> main) style opsional html 42b08e9 portofolio singkat f2212da homepage awal
+Jumlah File .html dan .css ; 1 per jenis file
